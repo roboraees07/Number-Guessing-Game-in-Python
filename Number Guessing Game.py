@@ -1,5 +1,3 @@
-#this is will ask two numbers
-#one for starting limit and other for ending limit
 import random
 import math
 # Taking Inputs
